@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zeyn A. Saigol | Niko&#39;s Homepage</title>
+    <link>https://lounick.github.io/author/zeyn-a.-saigol/</link>
+      <atom:link href="https://lounick.github.io/author/zeyn-a.-saigol/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zeyn A. Saigol</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nikolaos Tsiogkas</copyright><lastBuildDate>Mon, 21 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lounick.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Zeyn A. Saigol</title>
+      <link>https://lounick.github.io/author/zeyn-a.-saigol/</link>
+    </image>
+    
+    <item>
+      <title>Distributed multi-AUV cooperation methods for underwater archaeology</title>
+      <link>https://lounick.github.io/publication/arrows-oceans15-distributed/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/arrows-oceans15-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient multi-AUV cooperation using semantic knowledge representation for underwater archaeology missions</title>
+      <link>https://lounick.github.io/publication/arrows-oceans-efficient/</link>
+      <pubDate>Sun, 14 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/arrows-oceans-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facilitating cooperative AUV missions: experimental results with an acoustic knowledge-sharing framework</title>
+      <link>https://lounick.github.io/publication/drdc-oceans/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/drdc-oceans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control Architecture for Multiple Autonomous Unmanned Vehicle Operations–Trial Results</title>
+      <link>https://lounick.github.io/publication/drdc-report/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/drdc-report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David M. Lane | Niko&#39;s Homepage</title>
+    <link>https://lounick.github.io/author/david-m.-lane/</link>
+      <atom:link href="https://lounick.github.io/author/david-m.-lane/index.xml" rel="self" type="application/rss+xml" />
+    <description>David M. Lane</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nikolaos Tsiogkas</copyright><lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lounick.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>David M. Lane</title>
+      <link>https://lounick.github.io/author/david-m.-lane/</link>
+    </image>
+    
+    <item>
+      <title>Guided Stochastic Optimization for Motion Planning</title>
+      <link>https://lounick.github.io/publication/gstomp/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/gstomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Online approach for Knowledge Communication Planning</title>
+      <link>https://lounick.github.io/publication/mrs19/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/mrs19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timed-Elastic Bands for Manipulation Motion Planning</title>
+      <link>https://lounick.github.io/publication/ral-iros19/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/ral-iros19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DCOP: Dubins correlated orienteering problem optimizing sensing missions of a nonholonomic vehicle under budget constraints</title>
+      <link>https://lounick.github.io/publication/ral-iros18/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/ral-iros18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ARROWS Project: robotic technologies for underwater archaeology</title>
+      <link>https://lounick.github.io/publication/arrows18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/arrows18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Evolutionary Algorithm for Online, Resource-Constrained, Multivehicle Sensing Mission Planning</title>
+      <link>https://lounick.github.io/publication/ral-icra18/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/ral-icra18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an online heuristic method for energy-constrained underwater sensing mission planning</title>
+      <link>https://lounick.github.io/publication/iros17/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/iros17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MANgO: federated world Model using an underwater Acoustic NetwOrk</title>
+      <link>https://lounick.github.io/publication/oceans17/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/oceans17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-constrained informative routing for AUVs</title>
+      <link>https://lounick.github.io/publication/oceans16/</link>
+      <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/oceans16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed multi-AUV cooperation methods for underwater archaeology</title>
+      <link>https://lounick.github.io/publication/arrows-oceans15-distributed/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/arrows-oceans15-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facilitating multi-AUV collaboration for marine archaeology</title>
+      <link>https://lounick.github.io/publication/arrows-oceans15-facilitating/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/arrows-oceans15-facilitating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ARROWS project: adapting and developing robotics technologies for underwater archaeology</title>
+      <link>https://lounick.github.io/publication/arrows-ifac2015/</link>
+      <pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/arrows-ifac2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient multi-AUV cooperation using semantic knowledge representation for underwater archaeology missions</title>
+      <link>https://lounick.github.io/publication/arrows-oceans-efficient/</link>
+      <pubDate>Sun, 14 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/arrows-oceans-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facilitating cooperative AUV missions: experimental results with an acoustic knowledge-sharing framework</title>
+      <link>https://lounick.github.io/publication/drdc-oceans/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/drdc-oceans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control Architecture for Multiple Autonomous Unmanned Vehicle Operations–Trial Results</title>
+      <link>https://lounick.github.io/publication/drdc-report/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://lounick.github.io/publication/drdc-report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

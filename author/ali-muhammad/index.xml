@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ali Muhammad | Niko&#39;s Homepage</title>
-    <link>https://lounick.github.io/author/ali-muhammad/</link>
-      <atom:link href="https://lounick.github.io/author/ali-muhammad/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tsiogkas.me/author/ali-muhammad/</link>
+      <atom:link href="https://www.tsiogkas.me/author/ali-muhammad/index.xml" rel="self" type="application/rss+xml" />
     <description>Ali Muhammad</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nikolaos Tsiogkas</copyright><lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lounick.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tsiogkas.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ali Muhammad</title>
-      <link>https://lounick.github.io/author/ali-muhammad/</link>
+      <link>https://www.tsiogkas.me/author/ali-muhammad/</link>
     </image>
     
     <item>
       <title>ESROCOS: a robotic operating system for space and terrestrial applications</title>
-      <link>https://lounick.github.io/publication/esrocos17/</link>
+      <link>https://www.tsiogkas.me/publication/esrocos17/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://lounick.github.io/publication/esrocos17/</guid>
+      <guid>https://www.tsiogkas.me/publication/esrocos17/</guid>
       <description></description>
     </item>
     

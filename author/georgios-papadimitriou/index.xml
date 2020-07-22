@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Georgios Papadimitriou | Niko&#39;s Homepage</title>
-    <link>https://lounick.github.io/author/georgios-papadimitriou/</link>
-      <atom:link href="https://lounick.github.io/author/georgios-papadimitriou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tsiogkas.me/author/georgios-papadimitriou/</link>
+      <atom:link href="https://www.tsiogkas.me/author/georgios-papadimitriou/index.xml" rel="self" type="application/rss+xml" />
     <description>Georgios Papadimitriou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nikolaos Tsiogkas</copyright><lastBuildDate>Sun, 14 Sep 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lounick.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tsiogkas.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Georgios Papadimitriou</title>
-      <link>https://lounick.github.io/author/georgios-papadimitriou/</link>
+      <link>https://www.tsiogkas.me/author/georgios-papadimitriou/</link>
     </image>
     
     <item>
       <title>Efficient multi-AUV cooperation using semantic knowledge representation for underwater archaeology missions</title>
-      <link>https://lounick.github.io/publication/arrows-oceans-efficient/</link>
+      <link>https://www.tsiogkas.me/publication/arrows-oceans-efficient/</link>
       <pubDate>Sun, 14 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://lounick.github.io/publication/arrows-oceans-efficient/</guid>
+      <guid>https://www.tsiogkas.me/publication/arrows-oceans-efficient/</guid>
       <description></description>
     </item>
     

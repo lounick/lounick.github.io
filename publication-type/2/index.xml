@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Niko&#39;s Homepage</title>
-    <link>https://lounick.github.io/publication-type/2/</link>
-      <atom:link href="https://lounick.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tsiogkas.me/publication-type/2/</link>
+      <atom:link href="https://www.tsiogkas.me/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nikolaos Tsiogkas</copyright><lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lounick.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tsiogkas.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
-      <link>https://lounick.github.io/publication-type/2/</link>
+      <link>https://www.tsiogkas.me/publication-type/2/</link>
     </image>
     
     <item>
       <title>Guided Stochastic Optimization for Motion Planning</title>
-      <link>https://lounick.github.io/publication/gstomp/</link>
+      <link>https://www.tsiogkas.me/publication/gstomp/</link>
       <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://lounick.github.io/publication/gstomp/</guid>
+      <guid>https://www.tsiogkas.me/publication/gstomp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Timed-Elastic Bands for Manipulation Motion Planning</title>
-      <link>https://lounick.github.io/publication/ral-iros19/</link>
+      <link>https://www.tsiogkas.me/publication/ral-iros19/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://lounick.github.io/publication/ral-iros19/</guid>
+      <guid>https://www.tsiogkas.me/publication/ral-iros19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DCOP: Dubins correlated orienteering problem optimizing sensing missions of a nonholonomic vehicle under budget constraints</title>
-      <link>https://lounick.github.io/publication/ral-iros18/</link>
+      <link>https://www.tsiogkas.me/publication/ral-iros18/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://lounick.github.io/publication/ral-iros18/</guid>
+      <guid>https://www.tsiogkas.me/publication/ral-iros18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The ARROWS Project: robotic technologies for underwater archaeology</title>
-      <link>https://lounick.github.io/publication/arrows18/</link>
+      <link>https://www.tsiogkas.me/publication/arrows18/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://lounick.github.io/publication/arrows18/</guid>
+      <guid>https://www.tsiogkas.me/publication/arrows18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Evolutionary Algorithm for Online, Resource-Constrained, Multivehicle Sensing Mission Planning</title>
-      <link>https://lounick.github.io/publication/ral-icra18/</link>
+      <link>https://www.tsiogkas.me/publication/ral-icra18/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://lounick.github.io/publication/ral-icra18/</guid>
+      <guid>https://www.tsiogkas.me/publication/ral-icra18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The ARROWS project: adapting and developing robotics technologies for underwater archaeology</title>
-      <link>https://lounick.github.io/publication/arrows-ifac2015/</link>
+      <link>https://www.tsiogkas.me/publication/arrows-ifac2015/</link>
       <pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://lounick.github.io/publication/arrows-ifac2015/</guid>
+      <guid>https://www.tsiogkas.me/publication/arrows-ifac2015/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taavi Salumae | Niko&#39;s Homepage</title>
-    <link>https://lounick.github.io/author/taavi-salumae/</link>
-      <atom:link href="https://lounick.github.io/author/taavi-salumae/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tsiogkas.me/author/taavi-salumae/</link>
+      <atom:link href="https://www.tsiogkas.me/author/taavi-salumae/index.xml" rel="self" type="application/rss+xml" />
     <description>Taavi Salumae</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nikolaos Tsiogkas</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lounick.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tsiogkas.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Taavi Salumae</title>
-      <link>https://lounick.github.io/author/taavi-salumae/</link>
+      <link>https://www.tsiogkas.me/author/taavi-salumae/</link>
     </image>
     
     <item>
       <title>The ARROWS Project: robotic technologies for underwater archaeology</title>
-      <link>https://lounick.github.io/publication/arrows18/</link>
+      <link>https://www.tsiogkas.me/publication/arrows18/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://lounick.github.io/publication/arrows18/</guid>
+      <guid>https://www.tsiogkas.me/publication/arrows18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MANgO: federated world Model using an underwater Acoustic NetwOrk</title>
-      <link>https://lounick.github.io/publication/oceans17/</link>
+      <link>https://www.tsiogkas.me/publication/oceans17/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://lounick.github.io/publication/oceans17/</guid>
+      <guid>https://www.tsiogkas.me/publication/oceans17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The ARROWS project: adapting and developing robotics technologies for underwater archaeology</title>
-      <link>https://lounick.github.io/publication/arrows-ifac2015/</link>
+      <link>https://www.tsiogkas.me/publication/arrows-ifac2015/</link>
       <pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://lounick.github.io/publication/arrows-ifac2015/</guid>
+      <guid>https://www.tsiogkas.me/publication/arrows-ifac2015/</guid>
       <description></description>
     </item>
     
